@@ -5,4 +5,4 @@ este proyecto va sobre las nuevas noticias del Basquet de este 2026
 
 <img src=/Foto2.png/>
 
-<img src=/foto3/>
+<img src=/foto3.png/>
