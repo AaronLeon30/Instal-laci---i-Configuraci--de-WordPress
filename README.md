@@ -1,5 +1,8 @@
 # Instal-lacio i Configuraci de WordPress
-este proyecto va sobre las nuevas noticias del Basquet de este 2026
+## Descripcion del proyecto
+este proyecto va sobre las nuevas noticias del Basquet de este 2026, y tambien de algunos debates que podemos hacer.
+
+### Explicacion web
 
 <img src=/foto1.png/>
 En los apartados superiores se puede observar que disponemos de opciones para personalizar la página, regresar al inicio y consultar la información del usuario.
